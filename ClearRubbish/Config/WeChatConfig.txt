@@ -1,0 +1,14 @@
+//是否删除微信文件
+ClearWeChat=true
+
+//微信文档路径
+//默认存在C盘文档下，如果不是该目录请手动设置
+//可以写多个，如果参数为default，则定位到我的文档下的WeChat Files文件夹的所有微信
+//WeChatPath=C:\Users\xxx\Documents\WeChat Files\微信目录
+WeChatPath=default
+
+
+//忽略的文件夹名称"|"隔开
+//config 配置文件 不建议删除
+//Msg 聊天记录
+IgnoreFolder=config|Msg

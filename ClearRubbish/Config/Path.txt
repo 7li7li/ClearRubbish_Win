@@ -1,0 +1,2 @@
+//自定义删除目录 一行一个路径
+//例如C:\Project\VSProject\ClearRubbish\ClearRubbish\bin\Debug

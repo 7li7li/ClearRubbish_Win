@@ -1,0 +1,8 @@
+//测试不删除
+Debug=false
+//文件删除日志
+DelFileLog = false
+//删除空文件夹
+DelEmptyFolder = false
+//删除临时文件夹AppData\Local\Temp
+DelTemp = true
